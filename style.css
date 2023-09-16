@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -34,7 +35,18 @@ section {
 
 }
 
+section {
+    margin-bottom: 100px;
+}
+
 .top-banner {
     background-image: url(images/corner-banner.webp);
     background-repeat: no-repeat;
+}
+
+.doraemon {
+    background-image: url(images/blue.jpg);
+    background-repeat: no-repeat;
+    background-image: url(images/blue.jpg);
+
 }
